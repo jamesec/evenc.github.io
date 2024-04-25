@@ -39,7 +39,8 @@ As you manually install the downloaded `UnGoogled Chromium` App, click this butt
 **Step 3:** Change this Chromium flag and restart the Chromium App so that in the following steps, you can install extensions from the real Chromium Web Store, and there's no need to manually install them.
 
 https://github.com/NeverDecaf/chromium-web-store
-- `In the Read this first section` If you are using `ungoogled-chromium`: You must **change the flag** `chrome://flags/#extension-mime-request-handling` to `Always prompt for install`.
+- `In the Read this first section` If you are using `ungoogled-chromium`:
+	- You must **change the flag** `chrome://flags/#extension-mime-request-handling` to `Always prompt for install`.
 - The "Add to Chrome" button will sometimes be disabled when navigating around the web store.
 	- If this happens you can refresh the page to fix it.
 - Usage: Pin the Chromium Web Store badge in your browser's toolbar. (Badges are hidden by default)
