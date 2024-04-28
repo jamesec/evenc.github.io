@@ -1,8 +1,6 @@
 # 受害者、批評者，與內在關係
 **受害者、批評者，與內在關係：和想死的那個部分進行聚焦**
-
 作者：巴芭拉・麥加文 Barbara McGavin
-
 譯者：陳藝文、田嬰
 
 這篇文章最初發表在 1994 年 9 月的《聚焦連接》期刊中。
@@ -41,6 +39,4 @@
 
 本文收錄於《全然接納所有》（*The Radical Acceptance of Everything*）一書，作者是安・薇瑟・康奈爾（Ann Weiser Cornell）博士，其中也有巴芭拉・麥加文（Barbara McGavin）寫的文章（Calluna 出版社；2005）。
 
-譯自：
-
-[The ‘Victim’, the ‘Critic’ and the Inner Relationship: Focusing with the Part that Wants to Die](https://focusingresources.com/the-victim-the-critic-and-the-inner-relationship-focusing-with-the-part-that-wants-to-die/)
+譯自：[The ‘Victim’, the ‘Critic’ and the Inner Relationship: Focusing with the Part that Wants to Die](https://focusingresources.com/the-victim-the-critic-and-the-inner-relationship-focusing-with-the-part-that-wants-to-die/)
