@@ -34,22 +34,6 @@
         </script>
         <zero-md></zero-md>
     </main>
-
-    <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const zeroMdElement = document.querySelector('#markdownContent');
-        
-        // Wait for zero-md to finish loading and rendering
-        zeroMdElement.addEventListener('zero-md-rendered', function() {
-            // Extract h1 tag from the rendered Markdown content
-            const h1Element = zeroMdElement.shadowRoot.querySelector('h1');
-            const title = h1Element ? h1Element.textContent : 'Untitled';
-            
-            // Set title of the page
-            document.title = title + " - James Even Chen";
-        });
-    });
-    </script>
   
     <footer>
         <hr>
