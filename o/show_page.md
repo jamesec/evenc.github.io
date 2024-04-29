@@ -18,7 +18,7 @@ The code with comments is here:
 
 https://gist.githubusercontent.com/jamesec/606636df1542b0afa3b77013b56da240/raw
 
-<pre>
+<pre dark>
   <code class="language-css">
     img {
       display: block;
