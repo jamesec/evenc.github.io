@@ -25,14 +25,27 @@
     </header>
 
     <main>
-        <script>
-            document.addEventListener('DOMContentLoaded', function() {
-                const searchParams = new URLSearchParams(window.location.search);
-                var md_file = searchParams.get('p') + ".md";
-                var zeroMdElement = document.querySelector('zero-md');
-                zeroMdElement.setAttribute('src', md_file);
-            });
-        </script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Load the Markdown file using zero-md
+    ZeroMD.markdown('radical.md', {
+        el: '#markdownContent',
+        template: function(html) {
+            // Extract h1 tag from the rendered HTML
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, 'text/html');
+            const h1Element = htmlDoc.querySelector('h1');
+            const title = h1Element ? h1Element.textContent : 'Untitled';
+            
+            // Set title of the page
+            document.title = title;
+            
+            // Return the HTML content
+            return html;
+        }
+    });
+});
+</script>
         <zero-md></zero-md>
     </main>
 
