@@ -6,13 +6,13 @@ Originally I use a pair of `.htm` and `.md` files to parse the markdown file and
 
 For example, `show_page.htm` and `show_page.md`.
 
-But now, I only use a single htm to parse all the markdown files.
+But now, I only use a single html page to parse all the markdown files.
 
 The page url will be like: `s.htm?p=show_page`
 
 It means, **s**how me the **p**age :-D
-- s.htm means s(how).htm
-- p=something means the p(age) is something
+- `s.htm` means <u>s(how)</u>.htm
+- `p=something` means the <u>p(age)</u> is something
 
 The code with comments is here: 
 
