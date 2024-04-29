@@ -26,14 +26,21 @@
 
     <main>
         <script>
+            document.addEventListener('DOMContentLoaded', function() {
             const searchParams = new URLSearchParams(window.location.search);
             var md_file = searchParams.get('p') + ".md";
         
             // Select the <zero-md> element
             var zeroMdElement = document.querySelector('zero-md');
         
-            // Set the src attribute
-            zeroMdElement.setAttribute('src', md_file);
+            // Check if the element exists before setting the src attribute
+            if (zeroMdElement) {
+                // Set the src attribute
+                zeroMdElement.setAttribute('src', md_file);
+            } else {
+                console.error('Zero-MD element not found');
+            }
+            });
         </script>
     </main>
 
