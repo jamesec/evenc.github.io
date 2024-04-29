@@ -17,7 +17,7 @@ It means, **s**how me the **p**age :-D
 
 The code with comments is here:
 
-<code>
+```html
 <main>
   <script>
   document.addEventListener('DOMContentLoaded', function() {
@@ -39,6 +39,6 @@ The code with comments is here:
   </script>
 <zero-md></zero-md>
 </main>
-</code>
+```
 
 Actually I knew almost nothing about JavaScript, so I asked ChatGPT and learned how to do this, by chatting with AI, it's helpful, thanks.
