@@ -17,6 +17,6 @@ It means, **s**how me the **p**age :-D
 
 Also, I added a function that set the page title to be the h1 plus my name, when parsing the markdown file.
 
-You can use [View Page Source](javascript: 'view-source:' + window.location.href;) to check the codes.
+You can use [View Page Source](https://evenc.org/) to check the codes.
 
 Actually I knew almost nothing about JavaScript, so I asked ChatGPT and learned how to do these!
