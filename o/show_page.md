@@ -22,6 +22,6 @@ The code with comments is here:
       document.close();
   </script>
 
-<script src="https://gist.github.com/jamesec/606636df1542b0afa3b77013b56da240.js"></script>
-
 Actually I knew almost nothing about JavaScript, so I asked ChatGPT and learned how to do this, by chatting with AI, it's helpful, thanks.
+
+<script src="https://gist.github.com/jamesec/606636df1542b0afa3b77013b56da240.js"></script>
