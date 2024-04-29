@@ -17,6 +17,8 @@ It means, **s**how me the **p**age :-D
 
 The code with comments is here:
 
+<div class="dark-mode">
+
 ```javascript
 <main>
   <script>
@@ -40,5 +42,7 @@ The code with comments is here:
 <zero-md></zero-md>
 </main>
 ```
+
+</div>
 
 Actually I knew almost nothing about JavaScript, so I asked ChatGPT and learned how to do this, by chatting with AI, it's helpful, thanks.
