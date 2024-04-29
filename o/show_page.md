@@ -16,6 +16,16 @@ It means, **s**how me the **p**age :-D
 
 The code with comments is here: 
 
-[<script src="https://gist.github.com/jamesec/606636df1542b0afa3b77013b56da240.js"></script>](https://gist.githubusercontent.com/jamesec/606636df1542b0afa3b77013b56da240/raw)
+https://gist.githubusercontent.com/jamesec/606636df1542b0afa3b77013b56da240/raw
+
+<pre>
+  <code class="language-css">
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  </code>
+</pre>
 
 Actually I knew almost nothing about JavaScript, so I asked ChatGPT and learned how to do this, by chatting with AI, it's helpful, thanks.
