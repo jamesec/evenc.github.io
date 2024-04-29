@@ -9,14 +9,8 @@ var sourceLink = document.createElement('a');
 sourceLink.href = 'view-source:' + currentURL;
 
 // Set the link text
-sourceLink.textContent = 'View Page Source';
+sourceLink.textContent = 'View Source';
 
-// Create a span element to wrap the text
-var textSpan = document.createElement('span');
-textSpan.textContent = 'You can use ';
-
-// Append the text span and link to the body or any other desired element
-document.body.appendChild(textSpan);
+// Append the link to the body or any other desired element
 document.body.appendChild(sourceLink);
-document.body.appendChild(document.createTextNode(' to check the codes.'));
 </script>
