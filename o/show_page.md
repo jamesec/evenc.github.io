@@ -7,7 +7,7 @@ Originally I use a pair of `.htm` and `.md` files to parse the markdown file and
 
 For example, `this_page.htm` and `this_page.md`.
 
-But now, I only use a single HTML page to parse all the markdown files.
+But now, I only use a single HTML file to parse all the markdown files.
 
 A page link will be like: `s.htm?p=this_page`
 
