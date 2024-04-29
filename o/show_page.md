@@ -10,6 +10,10 @@ But now, I only use a single htm to parse all the markdown files.
 
 The page url will be like: `s.htm?p=show_page`
 
+It means, **s**how me the **p**age :-D
+- s.htm means s(how).htm
+- p=something means the p(age) is something
+
 The code with comments is here: 
 
 <script src="https://gist.github.com/jamesec/606636df1542b0afa3b77013b56da240.js"></script>
