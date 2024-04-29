@@ -17,6 +17,8 @@ It means, **s**how me the **p**age :-D
 
 The code with comments is here:
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css">
+
 ```html
 <main>
   <script>
