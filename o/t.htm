@@ -24,11 +24,23 @@
     </header>
 
     <main>
-        <h1>ok, dude</h1>
+        <zero-md src="radical.md" id="markdownContent"></zero-md>
     </main>
 
-    <script type="text/javascript">
-        document.title = document.getElementsByTagName("H1")[0].innerHTML
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const zeroMdElement = document.querySelector('#markdownContent');
+        
+        // Wait for zero-md to finish loading and rendering
+        zeroMdElement.addEventListener('zero-md-rendered', function() {
+            // Extract h1 tag from the rendered Markdown content
+            const h1Element = zeroMdElement.shadowRoot.querySelector('h1');
+            const title = h1Element ? h1Element.textContent : 'Untitled';
+            
+            // Set title of the page
+            document.title = title;
+        });
+    });
     </script>
 
     <footer>
