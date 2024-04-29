@@ -1,4 +1,4 @@
-# 一切都是我的錯！
+# 一切都是我的錯！by Derek Sivers
 作者：Derek Sivers / 譯者：陳藝文 / 2023 年 7 月 19 日
 
 譯自：[Everything is my fault (2012)](https://sive.rs/my-fault)
