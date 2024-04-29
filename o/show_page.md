@@ -14,14 +14,8 @@ It means, **s**how me the **p**age :-D
 - `s.htm` means <u>s(how)</u>.htm
 - `p=something` means the <u>p(age)</u> is something
 
-The code with comments is here: 
+The code with comments is here:
 
-  <script>
-      document.open();
-      document.write("<h1>Out with the old, in with the new!</h1>");
-      document.close();
-  </script>
+<iframe src="https://gist.githubusercontent.com/jamesec/606636df1542b0afa3b77013b56da240/raw/"></iframe>
 
 Actually I knew almost nothing about JavaScript, so I asked ChatGPT and learned how to do this, by chatting with AI, it's helpful, thanks.
-
-<script src="https://gist.github.com/jamesec/606636df1542b0afa3b77013b56da240.js"></script>
