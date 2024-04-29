@@ -28,7 +28,12 @@
         <script>
             const searchParams = new URLSearchParams(window.location.search);
             var md_file = searchParams.get('p') + ".md";
-            <zero-md src = md_file></zero-md>
+        
+            // Select the <zero-md> element
+            var zeroMdElement = document.querySelector('zero-md');
+        
+            // Set the src attribute
+            zeroMdElement.setAttribute('src', md_file);
         </script>
     </main>
 
