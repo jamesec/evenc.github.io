@@ -25,30 +25,9 @@
     </header>
 
     <main>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    // Load the Markdown file using zero-md
-    ZeroMD.markdown('radical.md', {
-        el: '#markdownContent',
-        template: function(html) {
-            // Extract h1 tag from the rendered HTML
-            const parser = new DOMParser();
-            const htmlDoc = parser.parseFromString(html, 'text/html');
-            const h1Element = htmlDoc.querySelector('h1');
-            const title = h1Element ? h1Element.textContent : 'Untitled';
-            
-            // Set title of the page
-            document.title = title;
-            
-            // Return the HTML content
-            return html;
-        }
-    });
-});
-</script>
-        <zero-md></zero-md>
+        <zero-md src="radical.md"></zero-md>
     </main>
-
+    
     <footer>
         <hr>
         <p>
