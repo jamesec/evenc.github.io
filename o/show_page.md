@@ -5,19 +5,18 @@ Today I made some changes to this website.
 
 Originally I use a pair of `.htm` and `.md` files to parse the markdown file and show the page.
 
-For example, `show_page.htm` and `show_page.md`.
+For example, `the_page.htm` and `the_page.md`.
 
 But now, I only use a single html page to parse all the markdown files.
 
-The page url will be like: `s.htm?p=show_page`
+The page url will be like: `s.htm?p=the_page`
 
 It means, **s**how me the **p**age :-D
 - `s.htm` means <u>s(how)</u>.htm
-- `p=something` means the <u>p(age)</u> is something
+- `p=the_page` means the <u>p(age)</u> is `the_page`
 
 The code with comments is here:
 
-```html
 <main>
   <script>
   document.addEventListener('DOMContentLoaded', function() {
@@ -39,6 +38,5 @@ The code with comments is here:
   </script>
 <zero-md></zero-md>
 </main>
-```
 
 Actually I knew almost nothing about JavaScript, so I asked ChatGPT and learned how to do this, by chatting with AI, it's helpful, thanks.
