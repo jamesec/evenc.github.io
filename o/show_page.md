@@ -1,19 +1,19 @@
-# Show me the page
+# Show me this page
 `Apr 29, 2024`
 
 Today I made some changes to this website. 
 
 Originally I use a pair of `.htm` and `.md` files to parse the markdown file and show the page.
 
-For example, `the_page.htm` and `the_page.md`.
+For example, `this_page.htm` and `this_page.md`.
 
 But now, I only use a single html page to parse all the markdown files.
 
-The page url will be like: `s.htm?p=the_page`
+The page url will be like: `s.htm?p=this_page`
 
 It means, **s**how me the **p**age :-D
 - `s.htm` means <u>s(how)</u>.htm
-- `p=the_page` means the <u>p(age)</u> is `the_page`
+- `p=this_page` means the <u>p(age)</u> is `this_page`
 
 The code with comments is here:
 
