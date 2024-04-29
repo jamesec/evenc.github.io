@@ -11,7 +11,7 @@ But now, I only use a single html page to parse all the markdown files.
 
 A page link will be like: `s.htm?p=this_page`
 
-It means, **s**how me the **p**age :-D
+It means, **s**how me the/this **p**age :-D
 - `s.htm` means <u>s(how)</u>.htm
 - `p=this_page` means the <u>p(age)</u> is `this_page`
 
