@@ -16,6 +16,6 @@ It means, **s**how me the **p**age :-D
 
 The code with comments is here:
 
-<iframe src="https://gist.githubusercontent.com/jamesec/606636df1542b0afa3b77013b56da240/raw/"></iframe>
+<embed src="https://gist.githubusercontent.com/jamesec/606636df1542b0afa3b77013b56da240/raw/" width="300" height="200" type="text/plain">
 
 Actually I knew almost nothing about JavaScript, so I asked ChatGPT and learned how to do this, by chatting with AI, it's helpful, thanks.
