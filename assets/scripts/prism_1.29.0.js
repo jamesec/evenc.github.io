@@ -28,23 +28,3 @@ var _self="undefined"!=typeof window?window:"undefined"!=typeof WorkerGlobalScop
 //# sourceMappingURL=/sm/c25592b52a89af112ba4181a68e6426a5270f90ea672d07ae003392286455396.map
 
 }
-/*
-     FILE ARCHIVED ON 11:55:55 Feb 09, 2024 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 05:12:45 May 02, 2024.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.832
-  exclusion.robots: 0.097
-  exclusion.robots.policy: 0.085
-  cdx.remote: 0.071
-  esindex: 0.01
-  LoadShardBlock: 60.999 (3)
-  PetaboxLoader3.datanode: 79.768 (4)
-  load_resource: 72.233
-  PetaboxLoader3.resolve: 50.249
-*/
