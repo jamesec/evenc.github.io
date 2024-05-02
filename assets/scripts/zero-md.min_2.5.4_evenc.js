@@ -26,7 +26,7 @@ class t extends HTMLElement {
             (this.config = {
                 markedUrl: "https://evenc.org/assets/scripts/marked_4.3.0.js",
                 prismUrl: [["https://evenc.org/assets/scripts/prism_1.29.0.js", "data-manual"], "https://evenc.org/assets/scripts/prism_autoloader.min.js"],
-                cssUrls: ["https://evenc.org/assets/styles/styles_evenc.css", "https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/themes/prism-dark.min.css"],
+                cssUrls: ["https://evenc.org/assets/styles/styles_evenc.css", "https://evenc.org/assets/styles/prism_okaidia.css"],
                 hostCss: ":host{display:block;position:relative;contain:content;}:host([hidden]){display:none;}",
                 ...t,
                 ...window.ZeroMdConfig,
