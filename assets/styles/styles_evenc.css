@@ -17,6 +17,9 @@
     color: #6a737d;
     border-left: 0.25em solid #dfe2e5;
    }
+  pre, code {
+    font-size: 12px;
+  }
 
 @media (prefers-color-scheme: dark) {
   body {
@@ -46,7 +49,6 @@
    }
   pre, code {
     background: rgb(53, 57, 64);
-    font-size: 8px;
   }
   <style>
 }
