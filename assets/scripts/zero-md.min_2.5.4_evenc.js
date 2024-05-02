@@ -24,7 +24,7 @@ class t extends HTMLElement {
         super(),
             (this.version = "2.5.4"),
             (this.config = {
-                markedUrl: "https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js",
+                markedUrl: "https://evenc.org/assets/scripts/marked_4.3.0.js",
                 prismUrl: [["https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/prism.min.js", "data-manual"], "https://cdn.jsdelivr.net/gh/PrismJS/prism@1/plugins/autoloader/prism-autoloader.min.js"],
                 cssUrls: ["https://evenc.org/assets/styles/styles_evenc.css", "https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/themes/prism-dark.min.css"],
                 hostCss: ":host{display:block;position:relative;contain:content;}:host([hidden]){display:none;}",
