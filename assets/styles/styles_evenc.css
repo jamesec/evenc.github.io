@@ -46,5 +46,7 @@
    }
   pre, code {
     background: rgb(53, 57, 64);
+    font-size: 8px;
   }
+  <style>
 }
