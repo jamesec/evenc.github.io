@@ -1,4 +1,4 @@
-# Different kinds of emotional responses in EFT - Robert Elliott
+# Different kinds of emotional responses in EFT, by Robert Elliott
 `May 2, 2024`
 
 <iframe width="640" height="360" src="https://youtube.com/embed/sJl3GJLTUj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
