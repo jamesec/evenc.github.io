@@ -1,7 +1,7 @@
 # Focusing in Haruki Murakami's Novels - Akira Ikemi
 Translated by **James Even Chen**, supervised by **Akira Ikemi** / July 13, 2023, revised August 16th, 2023.
 
-**Translated from**: [The Psychology of Focusing as Observed in the Novels of Haruki Murakami (2013, 2016)](https://akira-ikemi.net/ewExternalFiles/HarukiMurakami%26Focusing.pdf)<br />
+**Translated from**: [The Psychology of Focusing as Observed in the Novels of Haruki Murakami (2013, 2016)](https://akira-ikemi.net/ewExternalFiles/HarukiMurakami%26Focusing.pdf)<br>
 **Author**: [Akira Ikemi](https://akira-ikemi.net)
 
 ---
@@ -101,12 +101,12 @@ In *Focusing*, there is a psychological process called "Clearing a Space." It in
 
 The meaning of living does not exist from the beginning in clear and defined forms. It is perceived vaguely as a *felt sense* that encompasses oneself and various life situations. The *felt sense* felt within oneself, like the Sheep Man, implicitly connects various events and intentions for the future, throwing out messages for living uniquely and with individuality. Even if we obtain handle expressions such as "keep dancing" or "live simply" or "live a resilient life, like wild grass," it is not initially clear how to live them specifically. However, relying on the *felt sense* and its metaphorical expressions felt within oneself, we can reflect on the situations we are already in and the situations we will encounter, align with them, contemplate them, and step forward like dancing, one step at a time. Then, life progresses. I saw this kind of *Focusing* psychology in the novels of Haruki Murakami.
 
-> “But I still don’t know anything about life,” I protest.<br />
-> “Look at the painting,” he says. “And listen to the wind.”<br />
-> I nod.<br />
+> “But I still don’t know anything about life,” I protest.<br>
+> “Look at the painting,” he says. “And listen to the wind.”<br>
+> I nod.<br>
 > “I know you can do it.”
 > 
-> *From the last page of "Kafka on the Shore"*<br />
+> *From the last page of "Kafka on the Shore"*<br>
 > *Translated from the Japanese by Philip Gabriel (2005, Vintage)*
 
 <div style="page-break-after: always;"></div>
