@@ -1,25 +1,29 @@
 :root {
---color-secondary: #0f66ff !important;
---font: -apple-system, "Helvetica Neue", Helvetica, PingFangTC, "Hiragino Sans TC", "WenQuanYi Micro Hei", "Heiti TC", "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
-   }
-  a {
-    color: var(--color-secondary);
-    font-weight: normal !important;
-    text-decoration: none;
-   }
-  a:hover {
-    filter: brightness(var(--hover-brightness));
-    text-decoration: underline;
-   }
-  blockquote {
-    margin: 0;
-    padding: 0 1em;
-    color: #6a737d;
-    border-left: 0.25em solid #dfe2e5;
-   }
-  pre, code {
-    font-size: 12px;
-  }
+  --color-secondary: #0f66ff !important;
+  --font: -apple-system, "Helvetica Neue", Helvetica, PingFangTC, "Hiragino Sans TC", "WenQuanYi Micro Hei", "Heiti TC", "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
+}
+
+a {
+  color: var(--color-secondary);
+  font-weight: normal !important;
+  text-decoration: none;
+}
+
+a:hover {
+  filter: brightness(var(--hover-brightness)) brightness(1.2);
+  text-decoration: underline;
+}
+
+blockquote {
+  margin: 0;
+  padding: 0 1em;
+  color: #6a737d;
+  border-left: 0.25em solid #dfe2e5;
+}
+
+pre, code {
+  font-size: 12px;
+}
 
 @media (prefers-color-scheme: dark) {
   body {
@@ -50,5 +54,4 @@
   pre, code {
     background: rgb(53, 57, 64);
   }
-  <style>
 }
