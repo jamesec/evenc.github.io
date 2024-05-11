@@ -1,6 +1,6 @@
 # 受害者、批評者，與內在關係 by 巴芭拉・麥加文
-**受害者、批評者，與內在關係：和想死的那個部分進行聚焦**<br />
-作者：[巴芭拉・麥加文 Barbara McGavin](https://focusingresources.com/?team=barbara-mcgavin)<br />
+**受害者、批評者，與內在關係：和想死的那個部分進行聚焦**<br>
+作者：[巴芭拉・麥加文 Barbara McGavin](https://focusingresources.com/?team=barbara-mcgavin)<br>
 譯者：陳藝文、田嬰 / 2023 年 11 月 4 日
 
 這篇文章最初發表在 1994 年 9 月的《聚焦連接》期刊中。
