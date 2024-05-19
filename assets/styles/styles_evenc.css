@@ -1,19 +1,19 @@
 :root {
-  --color-secondary: #0f66ff !important;
+  --color-secondary: #0f66ff;
   --font-stack: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 nav {
-    margin-bottom: 0rem !important;
+    margin-bottom: 0rem;
 }
 
 hr {
-    margin: 0rem !important;
+    margin: 0rem;
 }
 
 a {
   color: var(--color-secondary);
-  font-weight: normal !important;
+  font-weight: normal;
   text-decoration: none;
 }
 
