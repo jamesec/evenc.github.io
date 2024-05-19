@@ -4,7 +4,11 @@
 }
 
 nav {
-    margin-bottom: 1rem !important;
+    margin-bottom: 0rem !important;
+}
+
+hr {
+    margin: 0rem 0 !important;
 }
 
 a {
