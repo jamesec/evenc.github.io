@@ -7,11 +7,6 @@ nav {
     margin-bottom: 2rem !important; /* Adjusted margin-bottom value */
 }
 
-footer, main {
-    margin-top: -1.5rem !important; /* Adjusted margin-top value */
-    margin-bottom: -1.5rem !important; /* Adjusted margin-bottom value */
-}
-
 a {
   color: var(--color-secondary);
   font-weight: normal !important;
