@@ -1,14 +1,13 @@
 :root {
-  --color-secondary: #0f66ff !important;
-  --font: -apple-system, "Helvetica Neue", Helvetica, PingFangTC, "Hiragino Sans TC", "WenQuanYi Micro Hei", "Heiti TC", "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
+  --font-stack: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 nav {
-    margin-bottom: 2rem !important; /* Adjusted margin-bottom value */
+    margin-bottom: 2rem !important;
 }
 
 a {
-  color: var(--color-secondary);
+  color: #0f66ff !important;
   font-weight: normal !important;
   text-decoration: none;
 }
