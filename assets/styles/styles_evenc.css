@@ -14,7 +14,7 @@ a {
 }
 
 a:hover {
-  filter: brightness(var(--hover-brightness)) brightness(1.2);
+  filter: brightness(1.2);
   text-decoration: underline;
 }
 
