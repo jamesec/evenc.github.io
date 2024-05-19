@@ -3,6 +3,18 @@
   --font: -apple-system, "Helvetica Neue", Helvetica, PingFangTC, "Hiragino Sans TC", "WenQuanYi Micro Hei", "Heiti TC", "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
 }
 
+nav {
+    margin-bottom: 3rem !important; /* Adjusted margin-bottom value */
+}
+
+main {
+    margin: 3rem auto !important; /* Adjusted margin-top and margin-bottom value */
+}
+
+footer {
+    margin-top: 3rem !important; /* Adjusted margin-top value */
+}
+
 a {
   color: var(--color-secondary);
   font-weight: normal !important;
