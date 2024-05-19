@@ -11,12 +11,6 @@ hr {
     margin: 0rem !important;
 }
 
-footer,
-header,
-main {
-    margin: 0rem !important;
-}
-
 a {
   color: var(--color-secondary);
   font-weight: normal !important;
