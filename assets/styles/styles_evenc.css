@@ -8,7 +8,13 @@ nav {
 }
 
 hr {
-    margin: 0rem 0 !important;
+    margin: 0rem !important;
+}
+
+footer,
+header,
+main {
+    margin: 0rem !important;
 }
 
 a {
