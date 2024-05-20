@@ -1,5 +1,5 @@
 # No writer's block for Sue, by Seth Godin
-`Apr 20, 2024`
+`April 20, 2024`
 
 <iframe src="https://player.vimeo.com/video/843952293?h=c968f8f232&color=0f43be&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
