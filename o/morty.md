@@ -7,7 +7,7 @@
 
 Video uploaded: Jul 25, 2015
 
-Morty delivers a rousing speech to himselves.
+Morty delivers a rousing speech to **himselves**.
 
 ---
 
