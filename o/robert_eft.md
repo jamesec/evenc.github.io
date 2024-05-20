@@ -7,7 +7,8 @@
 
 Video uploaded: Jun 29, 2016
 
-## Transcript
+---
+
 I'm Robert Elliot, and I'm going to talk about myself and how I came to EFT.
 
 I was trained as a clinical psychologist in the United States, where I worked almost, for almost 30 years, and during that time and in my training before that, I learned many different approaches to therapy, I was trained originally by a student of Carl Rogers in person-centered therapy, and then I had training in family systemic therapy, in psychodynamic therapy, in behavior therapy, before there was such a thing as cognitive-behavioral therapy.
