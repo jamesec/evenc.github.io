@@ -7,7 +7,8 @@
 
 Video uploaded: Feb 12, 2012
 
-## Transcript
+---
+
 We cannot fix ourselves and no one else can fix us. And we cannot change through willpower, it just doesn’t work. We cannot change through trying to control who we are and how we feel.
 
 And so the darkest feelings inside us, and the places in us that we most think are our enemy, are the ones we need to throw the door open and invite in, as the guests, as the honored guests.
