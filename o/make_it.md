@@ -1,7 +1,9 @@
 # Fake it till you make it?
 `May 20, 2024`
 
-As I understand it, this is a **playful** statement, and don’t take it too seriously. Which means, someone found it’s hard to adopt certain behaviors, so they imitate that behavior, i.e., "fake it," first. Then, gradually, they become more fluent in that behavior, incorporating it into their own will, and it becomes one of their natural processes, that's "make it".
+Fake it till you make it.
+
+This is a **playful** statement, and don’t take it too seriously. Which means, someone found it’s hard to adopt certain behaviors, so they imitate that behavior, i.e., "fake it," first. Then, gradually, they become more fluent in that behavior, incorporating it into their own will, and it becomes one of their natural processes, that's "make it".
 
 Take "Fake it till you make it" as more of a playful suggestion.
 
