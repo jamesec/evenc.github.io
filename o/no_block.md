@@ -7,7 +7,8 @@
 
 Video uploaded: Monday, July 10, 2023
 
-## Transcript
+---
+
 Hey Sue. Thank you for having me and thank you for doing this important work.
 
 So many people have something to say and yet when it's time to say it, when it's time to write our book, we hesitate, we get frozen, we get stressed, we procrastinate.
