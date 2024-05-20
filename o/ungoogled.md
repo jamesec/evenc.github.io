@@ -57,7 +57,7 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 Latest version as of Apr 23, 2024, **on GitHub: 1.57.2**
 
-Initially, we've manually installed the `Chromium Web Store` extension. To use the latest version of uBlock Origin, **manual install it too**.
+Initially, we've manually installed the `Chromium Web Store` extension. To use the latest version of uBlock Origin, **manually install it too**.
 
 So, **Step 4:** Manually install the uBlock Origin extension.
 - Download uBlock0_1.57.2.chromium.zip from [here](https://github.com/gorhill/uBlock/releases/tag/1.57.2).
