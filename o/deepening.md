@@ -7,6 +7,8 @@
 
 Video uploaded: Jul 25, 2016
 
+---
+
 A recent development in EFT is the formulation of a model or sequence of emotional deepening processes, and this is an attempt to integrate some of the complexity of EFT. But the idea is basically that when we work, when a client comes to see us, they often present in a kind of regular sequence that we can follow with the client. It provides a kind of **roadmap** that runs across many kinds, many different kinds of EFT work.
 
 And this sequence starts with the person presenting, the client presenting with an undifferentiated emotion. This is an emotion which is global and not distinct or specific, so the client might say I feel bad or I feel frustrated or I don't know what I feel. So that's an undifferentiated emotion state. It means there's no distinctions, it's just kind of a global feeling of badness, and the therapist helps the client to specify and **differentiate** to sort out that different what kind of bad it is that they feel.
