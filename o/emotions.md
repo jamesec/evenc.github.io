@@ -7,6 +7,8 @@
 
 Video uploaded: Jul 19, 2016
 
+---
+
 EFT distinguishes 4 types of emotion response, and it's an important distinction for us in EFT that not all emotion is the same. Some kinds of emotion responses are constructive, and others are getting in the way or don't help people deal with situations.
 
 So, the first of these four kinds of emotion responses are **primary adaptive emotions**, and these are the natural sort of biologically or evolutionarily given emotion responses. So, if I am having my boundaries violated, someone is invading my privacy or damaging my property, then that's a violation of my boundaries, and I will appropriately and adaptively become angry. The anger will help me to maintain and guard my boundary; in other words, I'll go to my boundary and I'll say, "that's enough of that, please stop, I need you to stop." I'll make a boundary, so that's an adaptive anger; that's anger which helps me to maintain a boundary in the face of a violation of that boundary. So, that's a useful emotion, that's part of our evolutionary heritage, and people do not get stuck in adaptive anger.
