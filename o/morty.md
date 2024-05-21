@@ -1,4 +1,4 @@
-# One true morty, rick and morty, by Adult Swim
+# One True Morty, Rick and Morty, by Adult Swim
 `May 20, 2024`
 
 <iframe width="560" height="315" src="https://youtube.com/embed/0uzynaLi4Tg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
