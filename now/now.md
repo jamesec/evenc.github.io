@@ -9,7 +9,7 @@ I'm watching Rick and Morty the TV show, one episode per day. It's such a great 
 - S02E05 Get Schwifty
 - S02E06 The Ricks Must Be Crazy
 
-One True Morty, from S01E10 - Close Rick-counters of the Rick Kind, is therapeutic and healing. 
+[One True Morty](/o/s.htm?p=morty), from S01E10 - Close Rick-counters of the Rick Kind, is therapeutic and healing. 
 
 ## Learning several things
 I'm learning several things. 
