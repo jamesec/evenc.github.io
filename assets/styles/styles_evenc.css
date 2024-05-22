@@ -35,7 +35,8 @@ pre, code {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background: #121212;
+    /* background: #121212; */
+    background: rgb(188, 189, 194);
     color: #bbb;
   }
   h1 {
