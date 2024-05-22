@@ -17,7 +17,7 @@ I'm learning several things.
 First of all, learning **UX design**, taking courses, reading books, and doing mini projects.
 
 ### Spanish
-One day, I asked ChatGPT:
+One day, I asked ChatGPT:<br>
 Let me know your top 6 best languages, ranking in proficiency and knowledge that you've got.
 
 The answer is: English, Spanish, French, German, Chinese (Mandarin), and Japanese.
@@ -27,15 +27,15 @@ I'm learning Spanish with [Coffee Break Spanish Podcast](https://coffeebreaklang
 ### Polyvagal theory
 In the mental health and psychotherapy field, I'm learning Polyvagal theory.
 
-There's an article, the title of which is interesting:
-[Don't talk to me now, I'm scanning for danger](https://static1.squarespace.com/static/597c98325016e1ac9a77e8ec/t/5fdb8ec77a6fba590f69948d/1621527113005/Stephen+Porges+interview_Don%27t+talk+to+me+now+I%27m+scanning+for+danger+copy.pdf)
-An interview with Stephen Porges about his polyvagal theory
+There's an article, the title of which is interesting:<br>
+[Don't talk to me now, I'm scanning for danger](https://static1.squarespace.com/static/597c98325016e1ac9a77e8ec/t/5fdb8ec77a6fba590f69948d/1621527113005/Stephen+Porges+interview_Don%27t+talk+to+me+now+I%27m+scanning+for+danger+copy.pdf)<br>
+An interview with Stephen Porges about his polyvagal theory<br>
 By Ravi Dykema
 
 [Jan Winhall](https://janwinhall.com/)'s FSPM is an elegant and minimal model for treating trauma and addiction, I like it.
 
-I'm watching [videos from her YouTube channel](https://youtube.com/@JanWinhall/videos), and reading her book:
+I'm watching [videos from her YouTube channel](https://youtube.com/@JanWinhall/videos), and reading her book:<br>
 Treating Trauma and Addiction with the Felt Sense Polyvagal Model (2021)
 
-Also, looking forward to her new book, which is expected to be published on March 18, 2025:
+Also, looking forward to her new book, which is expected to be published on March 18, 2025:<br>
 20 Embodied Practices for Healing Trauma and Addiction: Using the Felt Sense Polyvagal Model (2025)
