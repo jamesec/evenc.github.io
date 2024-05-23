@@ -4,7 +4,7 @@
 This is [a now page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/now).
 
 ## Rick and Morty
-I'm watching Rick and Morty the TV show, one episode per day. It's such a great show! Violent, charming, very creative, and thought-provoking. I especially love the rhythm and the music. My top episodes for the first two seasons:
+I'm watching Rick and Morty the TV show, one episode per day. It's such a great show! Violent, entertaining, and thought-provoking. I especially love the rhythm and the music. My top episodes for the first two seasons:
 - S01E04 M. Night Shaym-Aliens!
 - S02E05 Get Schwifty
 - S02E06 The Ricks Must Be Crazy
