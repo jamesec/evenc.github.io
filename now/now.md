@@ -4,10 +4,12 @@
 This is [a now page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/now).
 
 ## Rick and Morty
-I'm watching Rick and Morty the TV show, one episode per day. It's such a great show! Violent, entertaining, and thought-provoking. I especially love the rhythm and the music. My top episodes for the first two seasons:
+I'm watching [Rick and Morty the TV show](https://www.youtube.com/watch?v=O9B1oIev_iI), one episode per day. It's such a great show! Violent, entertaining, and thought-provoking. I especially love the rhythm and the music. My top episodes for the first two seasons:
 - S01E04 M. Night Shaym-Aliens!
 - S02E05 Get Schwifty
 - S02E06 The Ricks Must Be Crazy
+
+<img title="Rick and Morty, A Screenshot" src="/assets/images/Rick and Morty, A Screenshot.jpg" height="600">
 
 [One True Morty](/o/s.htm?p=morty), from S01E10 - Close Rick-counters of the Rick Kind, is therapeutic and healing. 
 
