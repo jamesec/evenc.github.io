@@ -9,7 +9,7 @@ I'm watching [Rick and Morty the TV show](https://www.youtube.com/watch?v=O9B1oI
 - S02E05 Get Schwifty
 - S02E06 The Ricks Must Be Crazy
 
-<img title="Rick and Morty, A Screenshot" src="/assets/images/Rick and Morty, A Screenshot.jpg" height="600">
+<img title="Rick and Morty, A Screenshot" src="/assets/images/Rick and Morty, A Screenshot.jpg" height="300">
 
 [One True Morty](/o/s.htm?p=morty), from S01E10 - Close Rick-counters of the Rick Kind, is therapeutic and healing. 
 
