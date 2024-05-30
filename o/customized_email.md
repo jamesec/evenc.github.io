@@ -1,4 +1,6 @@
 # Email with your own domain
+`May 30, 2024`
+
 I'm talking about one of the easiest ways to use email with your own domain.
 
 Get your own domain from [Porkbun](https://porkbun.com/) or [Namecheap](https://namecheap.com/).
