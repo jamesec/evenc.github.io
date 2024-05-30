@@ -22,7 +22,7 @@ First of all, learning **UX design**, taking courses, reading books, and doing m
 
 ### Spanish
 One day, I asked ChatGPT:<br>
-Let me know your top 6 best languages, ranking in proficiency and knowledge that you've got.
+`Let me know your top 6 best languages, ranking in proficiency and knowledge that you've got.`
 
 The answer is: English, Spanish, French, German, Chinese (Mandarin), and Japanese.
 
