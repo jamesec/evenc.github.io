@@ -9,7 +9,7 @@ Get a Tuta mail account through [my referal link](https://app.tuta.com/signup?re
 
 You can register for a free account first, then upgrade to paid plan at a later time.
 
-Set up Tuta mail with your own domain. Refer to this video for steps:
+Set up Tuta mail with your own domain. Refer to this video for steps:<br>
 [How to add your custom domain to Tutanota - YouTube](https://www.youtube.com/watch?v=NKYyqRtRc0o)
 
 Now you have an email address with your own domain, enhancing your personal branding!
