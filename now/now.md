@@ -11,7 +11,7 @@ I especially love the rhythm and the music. My top episodes for the first two se
 - S02E05 Get Schwifty
 - S02E06 The Ricks Must Be Crazy
 
-<img title="Rick and Morty, A Screenshot" src="/assets/images/Rick and Morty, A Screenshot.jpg" height="20%">
+<img title="Rick and Morty, A Screenshot" src="/assets/images/Rick and Morty, A Screenshot.jpg" width="20%">
 
 [One True Morty](/o/s.htm?p=morty), from S01E10 - Close Rick-counters of the Rick Kind, is therapeutic and healing. 
 
