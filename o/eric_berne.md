@@ -3,7 +3,7 @@
 
 `How strongly I recommend it: 7/10`
 
-<img title="Eric Berne, Key Figures in Counselling and Psychotherapy (1992) by Ian Stewart" src="/assets/images/Eric Berne, Key Figures in Counselling and Psychotherapy (1992) by Ian Stewart.jpg" height="200">
+<img title="Eric Berne, Key Figures in Counselling and Psychotherapy (1992) by Ian Stewart" src="/assets/images/eric_berne_1992.jpg" height="200">
 
 Eric Berne, Key Figures in Counselling and Psychotherapy (1992) by Ian Stewart
 
