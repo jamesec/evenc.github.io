@@ -7,7 +7,7 @@
 
 Video uploaded: Jul 25, 2015
 
-Morty delivers a rousing speech to **himselves**.
+Morty delivers a rousing speech to **himselves**. (from: S01.E10 ∙ Close Rick-Counters of the Rick Kind)
 
 ---
 
