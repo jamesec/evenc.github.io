@@ -31,4 +31,5 @@ Ohhhhh!
 
 ---
 
+<br>
 <img title="One True Morty" src="/assets/images/one_true_morty.jpg" width="66%">
