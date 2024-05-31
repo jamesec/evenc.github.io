@@ -28,3 +28,7 @@ He's the one true Morty!
 
 Keep it down!<br>
 Ohhhhh!
+
+---
+
+<img title="One True Morty" src="/assets/images/one_true_morty.jpg" width="66%">
