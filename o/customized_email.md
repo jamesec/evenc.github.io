@@ -5,20 +5,20 @@ One of the easiest ways to use email with your own domain.
 
 Get your own domain from [Porkbun](https://porkbun.com/) or [Namecheap](https://namecheap.com/).
 
-Get a Tuta mail account through [my referal link](https://app.tuta.com/signup?ref=VTBEVVg3WnU), if you're ok with it.
+Get a `Tuta Mail` account through [my referal link](https://app.tuta.com/signup?ref=VTBEVVg3WnU), if you're ok with it.
 
 You can register for a free account first, then upgrade to paid plan at a later time.
 
-Set up Tuta mail with your own domain. Refer to this video for steps:<br>
+Set up `Tuta Mail` with your own domain. Refer to this video for steps:<br>
 [How to add your custom domain to Tutanota - YouTube](https://www.youtube.com/watch?v=NKYyqRtRc0o)
 
-Alternatively you can choose Proton Mail, or other encrypted mail services. 
+Alternatively you can choose `Proton Mail`, or other encrypted mail services. 
 
 It depends on factors like pricing, offerings, and your user experience preferences. For example,
-- Mail Plus, Proton Mail
+- Mail Plus, `Proton Mail`
 	- 1 custom domain
 	- $3.99 /month - paid yearly
-- Revolutionary, Tuta Mail
+- Revolutionary, `Tuta Mail`
 	- 3 custom domains
 	- €3 /month - paid yearly
 
@@ -37,7 +37,7 @@ This email with your custom domain can serve as your primary email. Therefore, c
 - [How To Run Your Own Mail Server](https://c0ffee.net/blog/mail-server-guide/)
 	- A guide to self-hosting your email on FreeBSD using Postfix, Dovecot, Rspamd, and LDAP.
 
-### References - Tuta mail
+### References - Tuta Mail
 - [Secure email made for you - Tuta Mail](https://tuta.com/security)
 	- Zero-knowledge Architecture
 - [Encrypt it all: Tuta Mail makes end-to-end encryption easy.](https://tuta.com/encryption)
