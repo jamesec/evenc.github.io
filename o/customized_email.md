@@ -14,7 +14,7 @@ Set up Tuta mail with your own domain. Refer to this video for steps:<br>
 
 Alternatively you can choose Proton Mail, or other encrypted mail services. 
 
-It depends on factors like pricing, offerings, and your user experience preferences.
+It depends on factors like pricing, offerings, and your user experience preferences. For example,
 - Mail Plus, Proton Mail
 	- 1 custom domain
 	- $3.99 /month - paid yearly
