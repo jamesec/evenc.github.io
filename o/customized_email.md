@@ -12,7 +12,7 @@ You can register for a free account first, then upgrade to paid plan at a later 
 Set up `Tuta Mail` with your own domain. Refer to this video for steps:<br>
 [How to add your custom domain to Tutanota - YouTube](https://www.youtube.com/watch?v=NKYyqRtRc0o)
 
-Alternatively, you can choose `Proton Mail` or other encrypted mail services, depending on factors such as pricing, offerings, and your user experience preferences. For example,
+Alternatively, you can choose `[Proton Mail](https://protonmail.com/)` or other encrypted mail services, depending on factors such as pricing, offerings, and your user experience preferences. For example,
 - Mail Plus, `Proton Mail`
 	- 1 custom domain
 	- $3.99 /month - paid yearly
